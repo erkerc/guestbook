@@ -30,4 +30,4 @@ spec:
           # line below:
           # value: env
         ports:
-        - containerPort: 3333
+        - containerPort: 80
