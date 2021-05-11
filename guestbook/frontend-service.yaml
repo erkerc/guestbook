@@ -12,7 +12,7 @@ spec:
   # an external load-balanced IP for the frontend service.
   # type: LoadBalancer
   ports:
-    - port: 6379
+    - port: 3333
       targetPort: 80
       protocol: TCP
   selector:
